@@ -21,7 +21,9 @@ I’m Mayank Ravariya, a sophomore 💻 pursuing B.Tech in CSE-AIML 🎓 from Sa
 
 </div>
 
-### ⚡️ Tech Stack
+<br>
+
+## ⚡️ Tech Stack
 
 **👨‍💻 Programming Languages**
 
@@ -32,6 +34,8 @@ I’m Mayank Ravariya, a sophomore 💻 pursuing B.Tech in CSE-AIML 🎓 from Sa
 <code><a href="https://www.java.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="50px"/></a></code>
 <code><a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="50px"/></a></code>
 <code><a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="50px"/></a></code>
+
+<img align="right" src="./assets/developer.gif" width="420" height="330">
 
 <br>
 
@@ -66,6 +70,7 @@ I’m Mayank Ravariya, a sophomore 💻 pursuing B.Tech in CSE-AIML 🎓 from Sa
 <code><a href="https://www.figma.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height="50px"/></a></code>
 
 <br>
+<br>
 
 <div id="pins" align="center">
 
@@ -78,6 +83,13 @@ I’m Mayank Ravariya, a sophomore 💻 pursuing B.Tech in CSE-AIML 🎓 from Sa
 
 </div>
 
+<br>
+<br>
+
+<p align="center">
+  <i>A problem can be solved in a 100 different ways and There's always an easier way to solve a problem.</i>
+  <br>
+  <i>You miss 100% of the shots you don't take.</i>
 <br>
 
 ![](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=100&section=footer)
